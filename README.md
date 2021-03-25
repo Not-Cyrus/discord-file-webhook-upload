@@ -17,6 +17,9 @@ Anyone is welcome to contribute.
 
 [Go - Me](https://github.com/Not-Cyrus)
 
+
+[JavaScript - Me](https://github.com/Not-Cyrus)
+
 [Julia - Me](https://github.com/Not-Cyrus)
 
 [Lua - Me](https://github.com/Not-Cyrus)
