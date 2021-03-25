@@ -1,3 +1,4 @@
+/* Written by tornadus */
 #include <stdio.h>
 #include <curl/curl.h>
 
